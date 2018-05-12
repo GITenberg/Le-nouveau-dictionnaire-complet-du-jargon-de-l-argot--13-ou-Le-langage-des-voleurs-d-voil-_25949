@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31688'
     url: http://www.gutenberg.org/2009/agents/31688
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25949#Le-nouveau-dictionnaire-complet-du-jargon-de-l-argot--13-ou-Le-langage-des-voleurs-d-voil-
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2008-07-02'
 gutenberg_type: Text
