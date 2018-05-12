@@ -1,0 +1,27 @@
+_repo: Le-nouveau-dictionnaire-complet-du-jargon-de-l-argot--13-ou-Le-langage-des-voleurs-d-voil-_25949
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Halbert, Arthur
+    alias: Halbert d'Angers, Arthur
+    gutenberg_agent_id: '31688'
+    url: http://www.gutenberg.org/2009/agents/31688
+description: ''
+gutenberg_bookshelf: FR Langues
+gutenberg_issued: '2008-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25949'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'French language -- Slang'
+title: "Le nouveau dictionnaire complet du jargon de l'argot\r\nou, Le langage des\
+  \ voleurs dévoilé"
+url: http://www.gutenberg.org/ebooks/25949
